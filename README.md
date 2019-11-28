@@ -1,10 +1,7 @@
 # THE-F2E-WEEK04原始碼
 
 ## 作品連結 
-https://funfish22.github.io/F2EWeek04/#/
-
-## 作品github
-https://github.com/funfish22/F2EWeek04
+https://funfish22.github.io/F2EWeek04_source/#/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
