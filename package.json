@@ -5,7 +5,7 @@
   "homepage": ".",
   "dependencies": {
     "@types/styled-components": "^4.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "rc-form": "^2.4.10",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
